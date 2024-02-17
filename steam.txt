@@ -1,1 +1,3 @@
 lancache.steamcontent.com
+*.deploy.static.akamaitechnologies.com
+*.valve.net
