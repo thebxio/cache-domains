@@ -1,8 +1,2 @@
 *.deploy.static.akamaitechnologies.com
-155-133-246-19.valve.net
-155-133-246-10.valve.net
-155-133-246-4.valve.net
-155-133-246-18.valve.net
-155-133-246-20.valve.net
-155-133-246-12.valve.net
 *.valve.net
